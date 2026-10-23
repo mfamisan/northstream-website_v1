@@ -1,0 +1,60 @@
+
+/* GENERAL SETTINGS */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #15243A;
+    background-color: #F2F5F9;
+}
+
+/* HEADER */
+
+header {
+    background-color: #061B3A;
+    color: #FFFFFF;
+    padding: 30px;
+    text-align: center;
+}
+
+/* MAIN CONTENT */
+
+main {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+/* HEADINGS */
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #123D70;
+    font-size: 26px;
+}
+
+/* PARAGRAPHS */
+
+p {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* FOOTER */
+
+footer {
+    background-color: #061B3A;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 20px;
+}
